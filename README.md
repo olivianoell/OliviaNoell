@@ -1,8 +1,9 @@
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h1 align="center">Olivia Noell</h1>
+<h3>A passionate full-stack developer from Canada</h3>
 
-- 📫 How to reach me **oliviacatherinenoell@gmail.com**
+📫 How to reach me **oliviacatherinenoell@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WgYSu7RY5IHiWWmMYoa37O72-gQwiBWUvojS3LDlLRM/edit?usp=sharing](https://docs.google.com/document/d/1WgYSu7RY5IHiWWmMYoa37O72-gQwiBWUvojS3LDlLRM/edit?usp=sharing)
+📄 Know about my experiences [https://docs.google.com/document/d/1WgYSu7RY5IHiWWmMYoa37O72-gQwiBWUvojS3LDlLRM/edit?usp=sharing](https://docs.google.com/document/d/1WgYSu7RY5IHiWWmMYoa37O72-gQwiBWUvojS3LDlLRM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
