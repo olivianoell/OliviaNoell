@@ -1,4 +1,4 @@
-<h1 align="center">Olivia Noell</h1>
+<h1>Olivia Noell</h1>
 <h3>A passionate full-stack developer from Canada</h3>
 
 📫 How to reach me **oliviacatherinenoell@gmail.com**
