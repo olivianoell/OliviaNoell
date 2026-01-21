@@ -4,7 +4,7 @@ Email Specialist · Full-Stack Developer · Analytics-Driven Builder
 </h3>
 
 <p align="center">
-I design and engineer <strong>accessible, scalable, production-ready systems</strong> — from modular email frameworks to full-stack web applications.
+I design and engineer <strong>accessible, scalable, production-ready systems</strong>, from modular email frameworks to full-stack web applications.
 <br/>
 Background in <strong>software engineering, statistics, and customer enablement</strong>.
 </p>
