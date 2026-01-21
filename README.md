@@ -53,8 +53,8 @@ Background in <strong>software engineering, statistics, and customer enablement<
 <ul>
   <li>📧 <strong>Accessible, modular email systems</strong> (HTML, MJML, AMP, design systems)</li>
   <li>⚙️ <strong>Full-stack applications</strong> with React & Node.js</li>
-  <li>📊 <strong>Data & analytics</strong> — SQL, Python, regression modeling</li>
-  <li>🧠 <strong>Developer enablement</strong> — documentation, training, GTM support</li>
+  <li>📊 <strong>Data & analytics</strong> - SQL, Python, regression modeling</li>
+  <li>🧠 <strong>Developer enablement</strong> - documentation, training, GTM support</li>
 </ul>
 
 ---
